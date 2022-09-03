@@ -1,0 +1,68 @@
+C:\Users\takin\source\repos\StoreApp\StoreApp\bin\Debug\StoreApp.exe.config
+C:\Users\takin\source\repos\StoreApp\StoreApp\bin\Debug\StoreApp.exe
+C:\Users\takin\source\repos\StoreApp\StoreApp\bin\Debug\StoreApp.pdb
+C:\Users\takin\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.csprojAssemblyReference.cache
+C:\Users\takin\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+C:\Users\takin\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+C:\Users\takin\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+C:\Users\takin\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.exe
+C:\Users\takin\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.pdb
+C:\Users\takin\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.frmLogin.resources
+C:\Users\takin\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.frmRegister.resources
+C:\Users\takin\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.frmIndexAd.resources
+C:\Users\takin\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.frmIndexCus.resources
+C:\Users\takin\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.frmProduct.resources
+C:\Users\takin\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.frmOrders.resources
+C:\Users\takin\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.frmHelp.resources
+C:\Users\takin\source\repos\StoreApp\StoreApp\bin\Debug\storeAppDB.mdf
+C:\Users\takin\source\repos\StoreApp\StoreApp\bin\Debug\storeAppDB_log.ldf
+C:\Users\takin\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.frmMng_Product.resources
+C:\Users\takin\source\repos\StoreApp\StoreApp\obj\Debug\StoreApp.frmModify.resources
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\bin\Debug\storeAppDB.mdf
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\bin\Debug\storeAppDB_log.ldf
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\bin\Debug\StoreApp.exe.config
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\bin\Debug\StoreApp.exe
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\bin\Debug\StoreApp.pdb
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.csprojAssemblyReference.cache
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmModify.resources
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmHelp.resources
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmLogin.resources
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmMng_Product.resources
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmOrders.resources
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmProduct.resources
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmRegister.resources
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmIndexAd.resources
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmIndexCus.resources
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.exe
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.pdb
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmAdHome.resources
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmCusHome.resources
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmCatPro.resources
+D:\#Rage_Limbo\$University of Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frm_Cart.resources
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\bin\Debug\storeAppDB.mdf
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\bin\Debug\storeAppDB_log.ldf
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\bin\Debug\StoreApp.exe.config
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\bin\Debug\StoreApp.exe
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\bin\Debug\StoreApp.pdb
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.csprojAssemblyReference.cache
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmAdHome.resources
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmCatPro.resources
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmCusHome.resources
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmModify.resources
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frm_Cart.resources
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmHelp.resources
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmLogin.resources
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmMng_Product.resources
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmOrders.resources
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmProduct.resources
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmRegister.resources
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmIndexAd.resources
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.frmIndexCus.resources
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.exe
+D:\$University_of_Greenwich\L4DC90\Second-Half\DDOOCP\Application\StoreApp\StoreApp\obj\Debug\StoreApp.pdb

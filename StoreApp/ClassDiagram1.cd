@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StoreApp.frm_Cart">
+    <Position X="0.5" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>/4AAEAwACGQAADZQAACAAAACAAQ4AiACAEQAIAICAQg=</HashCode>
+      <FileName>frm_Cart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.frmAdHome">
+    <Position X="2.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmAdHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.frmCatPro">
+    <Position X="5.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQgBgUQCDQKCZAEACACAACAAAAAiBSBAAQAQBCAQA=</HashCode>
+      <FileName>frmCatPro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.frmCusHome">
+    <Position X="7.5" Y="9.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmCusHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.frmModify">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCBBCgggEiCAABQAAGCEAAA2gCAAAEBAsCAEASIRgQQ=</HashCode>
+      <FileName>frmModify.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.frmHelp">
+    <Position X="9" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAwAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>help.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.frmIndexAd">
+    <Position X="0.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oaDAEAAAkvABEAAAASCCAYwiIWIAAACABAAgIwkZAQA=</HashCode>
+      <FileName>indexAd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.frmIndexCus">
+    <Position X="9" Y="6" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>oaDAAOAAsjAAEAAAASiCAYQCIOABADGCBAAAIQmYAQA=</HashCode>
+      <FileName>indexCus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.frmLogin">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAAgACqCEAAQAASCCAIBiICCICAAAAkAAAABQAEA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.frmMng_Product">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAgAACAQKDZAAACAAAgCAAAAgijAABAAAABCAQY=</HashCode>
+      <FileName>mng_Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.frmOrders">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABKAgAACAQCDdAAACAAAACAAAQACBAAAAAAAAABQA=</HashCode>
+      <FileName>orders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.frmProduct">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQgAgAQCDQKCRAAACACAACAAAAAiBCAAAQAABCBQA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.Program">
+    <Position X="7.5" Y="14.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.frmRegister">
+    <Position X="7.5" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>QApAQAwAEiGEAIQBACyAAAgiMCIAIEAAAAADAIAQCAE=</HashCode>
+      <FileName>Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.storeAppDBDataSet">
+    <Position X="5.75" Y="15.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="StoreApp.storeAppDBDataSet.ProdcutRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="StoreApp.storeAppDBDataSet.ProdcutDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="StoreApp.storeAppDBDataSet.ProdcutRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="StoreApp.storeAppDBDataSet.ProdcutRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAAIQAAAAAgCQBgAAAAAAAEAxBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.Properties.Resources">
+    <Position X="4" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAIAAAAIBEAAAAQAAAAAAAAAACAAAAJA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.Properties.Settings">
+    <Position X="7.5" Y="12.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.storeAppDBDataSetTableAdapters.ProdcutTableAdapter">
+    <Position X="7.5" Y="15.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreApp.storeAppDBDataSetTableAdapters.TableAdapterManager">
+    <Position X="2.25" Y="16.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="StoreApp.storeAppDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+      <Class Name="StoreApp.storeAppDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAQMAAgAQACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="9" Y="5" Width="1.25" />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
